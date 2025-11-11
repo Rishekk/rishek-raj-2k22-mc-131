@@ -72,14 +72,6 @@ Before the interview, ensure you have:
 - [ ] You're in a quiet, distraction-free environment
 - [ ] You have a way to demo your application (screen sharing ready)
 
-## Next Steps
-
-1. Review this document and ensure you meet all prerequisites
-2. Set up your development environment if you haven't already
-3. Prepare your GitHub account
-4. Be ready for the coding round with a positive mindset
-5. After submission, stay available in case you're selected for the explanation interview
-
 ---
 
 **We're looking forward to seeing your problem-solving skills in action!**
